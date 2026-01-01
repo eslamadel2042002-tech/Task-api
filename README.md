@@ -49,6 +49,5 @@ Each folder represents a separate task, including:
 > Ensure that the correct version of the .NET SDK is installed on your machine.
 
 ## 👨‍💻 Author
-
-**Mohamed Alkahlawy**  
-Flutter Mobile Developer & Backend Developer .NET.
+ **Islam Adel **
+ Backend Developer .NET.
